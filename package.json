@@ -1,5 +1,5 @@
 {
-  "name": "@lomik31/js-npm-universal-module",
+  "name": "@netology-homeworks-lomik31/js-npm-universal-module",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
